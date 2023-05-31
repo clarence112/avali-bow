@@ -1,0 +1,7 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://dsgo8ie50abbx"]
+
+[ext_resource type="Shader" uid="uid://ckghubugv8yld" path="res://mat/bubbletubeshade.tres" id="1_onrdf"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_onrdf")

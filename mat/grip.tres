@@ -1,0 +1,9 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://gq5qfwvas216"]
+
+[ext_resource type="Shader" uid="uid://bwpjy5gala2vk" path="res://mat/gripshade.tres" id="1_3gtry"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_3gtry")
+shader_parameter/ColorParameter = Color(1, 0.54902, 0.047059, 1)
+shader_parameter/ColorParameter2 = Color(0.941176, 0.941176, 0.917647, 1)
