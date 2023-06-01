@@ -1,0 +1,8 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://drj724yvby6nb"]
+
+[ext_resource type="Shader" uid="uid://u7sgcb1clop6" path="res://mat/stringshade.tres" id="1_tl8jc"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_tl8jc")
+shader_parameter/intensity = 10.0
